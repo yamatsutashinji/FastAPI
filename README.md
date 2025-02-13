@@ -1,1 +1,3 @@
 # FastAPI
+
+playground for FastAPI
